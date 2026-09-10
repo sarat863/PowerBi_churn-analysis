@@ -1,0 +1,18 @@
+# Environment Variables & Secrets
+.env
+.env*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Temporary & Cache files
+*.tmp
+*.bak
+~
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
